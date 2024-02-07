@@ -1,1 +1,3 @@
 creating first project
+
+echo "hello world"
